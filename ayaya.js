@@ -1,0 +1,1 @@
+console.log("Bagaimana kalau ganti PC");
